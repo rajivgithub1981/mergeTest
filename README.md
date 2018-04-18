@@ -1,4 +1,5 @@
 # mergeTest
+no conflict line, feature2
 test merge and tree structure
 message from user2
 message from user1
