@@ -16,3 +16,4 @@ master new line
 master new line for feature3
 conflict feature 4
 master being difficult confict resolved
+master being difficult again with feature5
