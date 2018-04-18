@@ -14,3 +14,4 @@ User2 added this to feature1
 
 master new line
 master new line for feature3
+master being difficult
