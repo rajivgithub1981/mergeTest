@@ -9,3 +9,5 @@ message from master and  message from user2Branch
 User2 added this to feature1
 9:59 04/17 User2 added this to feature1
 10:36 04/17 message from master, merge
+
+master new line
