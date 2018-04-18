@@ -15,3 +15,4 @@ User2 added this to feature1
 master new line
 master new line for feature3
 conflict feature 4
+master being difficult confict resolved
